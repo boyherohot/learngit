@@ -5,4 +5,7 @@ fit change now.
 creating a new branch is quick and simple.
 anything.
 I an in div.
+<<<<<<< HEAD
 我是第一个dev
+我是other远程自建dev
+
